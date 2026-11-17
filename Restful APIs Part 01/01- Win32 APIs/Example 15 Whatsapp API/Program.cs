@@ -143,13 +143,12 @@ class Program
     {
         // Find your Account SID and Auth Token at twilio.com/console
         // and set the environment variables. See http://twil.io/secure
-        string accountSid = Environment.GetEnvironmentVariable("TWILIO_ACCOUNT_SID");
-        string authToken = Environment.GetEnvironmentVariable("TWILIO_AUTH_TOKEN");
+
 
         TwilioClient.Init(accountSid, authToken);
 
         var message = await MessageResource.CreateAsync(
-            from: new Twilio.Types.PhoneNumber("whatsapp:+212642981375"),
+            from: new Twilio.Types.PhoneNumber("whatsapp:+2126981375"),
             to: new Twilio.Types.PhoneNumber("whatsapp:+212767321977"),
             body: "Hello from Brahim Elkhattab!" );
 
@@ -174,13 +173,11 @@ class Program
 //    {
 //        // Replace with your Twilio account details
 
-//        const string accountSid = "ACbcfb9adbd2c415515ac4a518422e884e";
-//        const string authToken = "63857d3dbddb3e64014ce4488aba02b6";
 
 //        TwilioClient.Init(accountSid, authToken);
 
 //        var message = MessageResource.Create(
-//            from: new PhoneNumber("whatsapp:+212642981375"), // Twilio Sandbox WhatsApp number
+//            from: new PhoneNumber("whatsapp:+21264281375"), // Twilio Sandbox WhatsApp number
 //            to: new PhoneNumber("whatsapp:+212767321977"),     // Your friend's WhatsApp number
 //            body: "Hello from Brahim Elkhattab!"
 //        );
