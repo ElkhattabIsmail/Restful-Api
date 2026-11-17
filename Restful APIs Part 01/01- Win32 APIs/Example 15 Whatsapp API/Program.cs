@@ -143,8 +143,8 @@ class Program
     {
         // Find your Account SID and Auth Token at twilio.com/console
         // and set the environment variables. See http://twil.io/secure
-        string accountSid = Environment.GetEnvironmentVariable("ACbcfb9adbd2c415515ac4a518422e884e");
-        string authToken = Environment.GetEnvironmentVariable("63857d3dbddb3e64014ce4488aba02b6");
+        string accountSid = Environment.GetEnvironmentVariable("TWILIO_ACCOUNT_SID");
+        string authToken = Environment.GetEnvironmentVariable("TWILIO_AUTH_TOKEN");
 
         TwilioClient.Init(accountSid, authToken);
 
