@@ -1,0 +1,7 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\bin\Debug\Change BG Picture Using Win Apis.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\bin\Debug\Change BG Picture Using Win Apis.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\bin\Debug\Change BG Picture Using Win Apis.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\obj\Debug\Change BG Picture Using Win Apis.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\obj\Debug\Change BG Picture Using Win Apis.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\obj\Debug\Change BG Picture Using Win Apis.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change BG Picture Using Win Apis\obj\Debug\Change BG Picture Using Win Apis.pdb

@@ -1,0 +1,158 @@
+What are common methods used for authentication and authorization in Web APIs?
+Cookies and Sessions
+correct API keys, OAuth, and tokens
+
+What is an API endpoint?
+A specific function within an API
+A security feature of an API
+correct A specific URL where an API can access resources
+
+
+What does REST stand for in RESTful APIs?
+Reliable Enterprise Service Transfer
+correct Representational State Transfer
+
+
+Which of the following best describes the term "interoperability" in the context of Web APIs?
+The ability to execute multiple tasks simultaneously
+correct The ability of different systems, platforms, and applications to interact and exchange data
+
+
+
+
+Why are Web APIs essential in modern software development?
+They reduce the need for graphical user interfaces
+correct They enable the creation of integrated, dynamic, and scalable applications
+
+
+
+What does REST stand for in RESTful APIs?
+Reliable Enterprise Service Transfer
+correct Representational State Transfer
+
+
+
+What is one of the primary purposes of using Web APIs in cloud services?
+To reduce the need for server maintenance
+correct To enable dynamic and scalable application integration
+
+
+
+Which of the following methods is used by Web APIs to verify the identity of a user or system?
+Cookies
+correct Authentication
+Load balancing
+Compression
+
+What does JSON stand for?
+JavaScript Online Notation
+correct JavaScript Object Notation
+Java Syntax Object Notation
+
+
+
+What is a common use case for Web APIs in social media platforms?
+Managing local databases
+correct Interacting with third-party services to fetch user data
+
+
+
+Which of the following is a benefit of using JSON over XML in Web APIs?
+JSON is more verbose
+correct JSON is easier to read and write
+
+
+What is an important characteristic of RESTful APIs regarding client-server communication?
+Stateful communication
+correct Stateless communication
+
+Stateless communication
+/ˈsteɪt.ləs kəˌmjunɪˈkeɪʃən/
+
+اسم
+نوع من الاتصالات حيث لا يحتفظ النظام بأي حالة من المعلومات بين الطلبات.
+Example: In stateless communication, each request is treated independently. في الاتصال بدون حالة، يتم التعامل مع كل طلب بشكل مستقل.
+
+
+
+What is the main purpose of using API documentation?
+To secure the API
+correct To help developers understand how to use the API
+
+
+What is a typical use case for a Web API in an e-commerce platform?
+Compiling code
+correct Integrating payment gateways
+
+
+Which of the following best describes the term "API endpoint"?
+The security protocol used by an API
+The main server hosting the API
+correct A specific URL path where an API resource is accessed
+
+
+
+Is RESTFull API is the only Web API Type?
+Yes
+correct No, there are many other types like GraphQL, SOAP, gRPC, and others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

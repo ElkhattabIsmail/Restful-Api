@@ -1,0 +1,224 @@
+What architectural style do Web APIs enable for service reuse?
+Monolithic Architecture
+correct Service-Oriented Architecture
+Layered Architecture
+Client-Server Architecture
+
+
+How do Web APIs contribute to scalability?
+By limiting the number of requests
+correct By efficiently handling a large number of requests.
+
+
+
+What type of architecture do Web APIs enable that allows independent scaling of services?
+correct Microservices Architecture
+
+
+
+How do APIs support agile development practices?
+By enforcing rigid development processes
+correct By allowing flexible and independent development
+
+
+
+What benefit do APIs provide in terms of extensibility?
+They limit the addition of new features
+correct They facilitate adding new features without modifying core components
+
+
+
+What type of processes do APIs help automate?
+Manual data entry
+correctAutomated processes such as data retrieval and interaction with third-party services
+
+
+How do APIs support continuous integration and deployment?
+By discouraging automated testing
+correctBy supporting automated testing and deployment pipelines
+
+
+
+
+10 / 26
+How do APIs improve user experience through dynamic content?
+By providing static content
+correctBy enabling the retrieval and display of dynamic content
+
+
+
+How do APIs enable seamless integrations?
+By preventing integration with third-party services
+correctBy allowing integration with third-party services
+
+
+
+How do APIs ensure controlled access to data and services?
+By enforcing open access
+correctBy implementing authentication and authorization mechanisms
+
+
+What security measure can APIs use to protect sensitive data?
+By removing encryption
+correctBy using secure communication protocols like HTTPS
+
+
+
+What advantage do standardized interfaces of APIs provide?
+They make APIs harder to understand
+correctThey simplify interaction with services
+
+
+
+How does API documentation benefit developers?
+By providing unclear guidelines
+correctBy offering clear guidelines and examples
+
+
+How do APIs accelerate the development of new applications and features?
+By duplicating existing services
+correctBy allowing developers to leverage existing services
+
+
+How do APIs foster ecosystem growth?
+By isolating developers
+correctBy enabling developers to build on each other's work
+By limiting collaboration
+By reducing innovation
+
+
+How do APIs reduce development costs?
+By requiring custom solutions for every project
+correctBy enabling reuse of existing APIs and services
+By increasing manual intervention
+By limiting operational efficiency
+
+
+كيف تبسّط واجهات برمجة التطبيقات العمليات؟
+How do APIs streamline processes?
+By increasing manual intervention
+By complicating automation
+By reducing cost efficiency
+correctBy reducing the need for manual intervention
+
+
+What is a key benefit of Web APIs in terms of interoperability?
+correctThey enable communication between different systems regardless of platform or technology
+
+
+What benefit does reusability of APIs offer to development projects?
+Limited scalability
+Increased complexity
+Increased development time
+correctReduced need to write the same code multiple times
+
+
+What type of architecture supports modular services reuse?
+Monolithic Architecture
+correctService-Oriented Architecture
+N-Tier Architecture
+Client-Server Architecture
+
+
+
+What benefit does a microservices architecture offer?
+correctIndependent scaling of each service based on demand
+
+
+How do APIs ensure seamless integration with third-party services?
+By preventing integration
+correctBy allowing seamless integration
+
+
+How do APIs protect sensitive data?
+By removing encryption
+By making data public
+correctBy using secure communication protocols like HTTPS
+
+
+
+What efficiency benefit do APIs provide?
+correctReduced need for manual intervention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

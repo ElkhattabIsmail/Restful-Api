@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YftDNTOc/VU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Course\\New folder\\06 Student API Project v6 - Delete\\02 StudentApiClient v6\\StudentApiClient\\StudentApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

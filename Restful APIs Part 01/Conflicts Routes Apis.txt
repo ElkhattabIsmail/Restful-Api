@@ -1,0 +1,48 @@
+Solution :
+
+✅ Solution: Differentiate the Routes
+There are three common ways to fix this:
+
+🔧 Option 1: Use a Sub-route or Route Prefix
+Change one of the methods to use a sub-route:
+
+csharp
+Copier
+Modifier
+[HttpGet("name/{StudentID}", Name = "GetStudentNameByID")]
+public ActionResult<string> GetStudentNameByID(int StudentID) { ... }
+
+[HttpGet("{StudentID}", Name = "GetStudentById")]
+public ActionResult<StudentDTO> GetStudentById(int StudentID) { ... }
+✅ /api/students/5 → full student DTO
+✅ /api/students/name/5 → just the student name
+
+🔧 Option 2: Use Query Strings (Less RESTful)
+If you want to keep the route the same but change behavior with a parameter:
+
+csharp
+Copier
+Modifier
+[HttpGet("{StudentID}")]
+public ActionResult Get(int StudentID, [FromQuery] bool nameOnly = false)
+{
+    if (StudentID < 1)
+        return BadRequest("Invalid ID");
+
+    if (nameOnly)
+    {
+        string name = StudentAPIBusinessLayer.Student.GetStudentNameById(StudentID);
+        return string.IsNullOrEmpty(name) ? NotFound() : Ok(name);
+    }
+    else
+    {
+        var student = StudentAPIBusinessLayer.Student.Find(StudentID);
+        if (student == null) return NotFound();
+        return Ok(student.SDTO);
+    }
+}
+✅ /api/students/5?nameOnly=true → returns name
+✅ /api/students/5 → returns full DTO
+
+⚠️ Not as RESTful, but sometimes useful for shared logic.
+

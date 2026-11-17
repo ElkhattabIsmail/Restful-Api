@@ -1,0 +1,7 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\bin\Debug\02- Change Screen Resolution Using Apis.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\bin\Debug\02- Change Screen Resolution Using Apis.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\bin\Debug\02- Change Screen Resolution Using Apis.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\obj\Debug\02- Change Screen Resolution Using Apis.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\obj\Debug\02- Change Screen Resolution Using Apis.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\obj\Debug\02- Change Screen Resolution Using Apis.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 2 Get Screen Resolution\02- Change Screen Resolution Using Apis\obj\Debug\02- Change Screen Resolution Using Apis.pdb

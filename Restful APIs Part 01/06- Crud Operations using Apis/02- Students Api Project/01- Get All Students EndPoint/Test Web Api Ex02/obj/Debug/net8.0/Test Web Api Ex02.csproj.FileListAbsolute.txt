@@ -1,0 +1,7 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.AssemblyInfoInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.AssemblyInfo.cs
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\New folder\02- Students Api Project\Test Web Api Ex02\obj\Debug\net8.0\Test Web Api Ex02.MvcApplicationPartsAssemblyInfo.cache

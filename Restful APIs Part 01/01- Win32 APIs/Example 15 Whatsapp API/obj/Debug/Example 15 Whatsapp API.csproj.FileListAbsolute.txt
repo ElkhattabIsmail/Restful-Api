@@ -1,0 +1,46 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Example 15 Whatsapp API.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Example 15 Whatsapp API.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Example 15 Whatsapp API.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Text.Json.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Memory.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.ValueTuple.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Buffers.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\obj\Debug\Example 15 Whatsapp API.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\obj\Debug\Example 15 Whatsapp API.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\obj\Debug\Example .57D3ED99.Up2Date
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\obj\Debug\Example 15 Whatsapp API.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\obj\Debug\Example 15 Whatsapp API.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Twilio.dll
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Buffers.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Memory.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Text.Json.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\System.ValueTuple.xml
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 15 Whatsapp API\bin\Debug\Twilio.xml

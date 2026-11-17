@@ -1,0 +1,14 @@
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.exe.config
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\05 Change WallPaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\bin\Debug\Change WallPaper.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 1 Change Desktop Wallpaper\Change WallPaper\Change WallPaper\obj\Debug\Change WallPaper.pdb

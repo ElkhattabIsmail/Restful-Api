@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Mz5B2oUb4E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Course\\New folder\\04 Student API Project v4 - Get Student By ID\\01 StudentAPIServer v4\\MyFirstRestAPI_Porject\\StudentApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ULTRAPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,239 @@
+- Stateless: Each request is independent, and the server does not remember any previous interactions. All necessary information must be included in every request.
+
+Stateful: The server keeps track of the client’s interactions (session or state), allowing it to remember previous requests and provide context-aware responses.
+
+- RESTful refers to a way of designing Web APIs that follows a set of simple rules called REST (Representational State Transfer). It makes APIs easy to use and understand by sticking to these principles:
+
+1 - Uses HTTP
+2 - stateless
+
+
+4 / 10
+In REST, what does "statelessness" imply?
+correctEach request contains all the information needed to process it
+
+8 / 10
+What architectural style is a RESTful API based on?
+Client-server
+Stateless
+Cacheable
+correct All of the above
+
+In REST, what is a "resource" typically represented by?
+A file
+A database entry
+correctA URL
+A server
+
+Which element of a RESTful API controls the resource and responds to client requests?
+Client
+Middleware
+Resource
+correctServer
+
+
+4 / 15
+What is a resource in the context of a RESTful API?
+A database entry
+correctAny data or content controlled by the server
+A network connection
+A protocol
+
+
+What is the role of the server in a RESTful API?
+To request resources
+correctTo control resources and respond to client requests
+To act as a proxy
+
+
+What is the role of the server in a RESTful API?
+To request resources
+correctTo control resources and respond to client requests
+To act as a proxy
+
+
+What is the primary function of the resource in a RESTful API?
+To make requests
+To respond to requests
+correctTo be controlled and made available by the server to the client
+
+
+What kind of software is the client in a RESTful API?
+Software that controls the resource
+correctSoftware that requests a resource from a server
+Software that makes the resource available
+Software that responds to requests
+
+
+What happens when a client requests a resource in a RESTful API?
+correctThe server controls and makes the resource available
+The client responds with the resource
+The middleware processes the resource
+The database sends the resource
+
+
+Client could be any type of application in any programming language in any Operating System that request data from a server.
+correctTrue
+
+
+Server is a program running 24 x 7 to receive requests from clients and send responses back.
+correctTrue
+
+
+###
+Which part of an HTTP request details what should happen to the specified resource?
+Endpoint
+Header
+Body
+correctHTTP method
+
+
+2 / 17
+What does the POST method do in a RESTful API?
+Retrieve an existing resource
+correctCreate a new resource
+Update an existing resource
+Delete a resource
+
+What is the function of the GET method in a RESTful API?
+Create a new resource
+correctRetrieve an existing resource
+
+
+Which HTTP method is used to update an existing resource?
+GET
+POST
+correctPUT
+DELETE
+
+
+What does CRUD stand for in the context of RESTful APIs?
+correctCreate, Retrieve, Update, Delete
+
+What does the endpoint in an HTTP request show?
+What should happen to the resource
+correctWhere the resource is located
+
+
+What might a request header include?
+Resource location
+correctAuthentication data
+Body content
+URI
+
+
+What is the primary function of the body in an HTTP request?
+Show where the resource is located
+correctInclude data sent to or received from the server
+Handle the response
+Detail what should happen to the resource
+
+
+
+In the POST method, where is the new resource data included?
+Endpoint
+Header
+correctBody
+
+
+What is included in the body of a PUT request?
+New resource data
+correctUpdated data
+
+
+
+When the server responds to a GET request, where is the requested data included?
+Endpoint
+Header
+correctBody
+
+
+Besides the requested data, what else might the server include in its response?
+correctError codes
+Endpoint
+Header
+URI
+✅ Correct Answer: 1 Error codes
+
+✔️ Why this is the right answer:
+Besides the requested data, a server's response typically includes status/error codes to indicate the result of the request. These help the client understand whether the request was successful or if something went wrong.
+
+Examples:
+200 OK – Request succeeded
+
+404 Not Found – Resource not found
+
+500 Internal Server Error – Something went wrong on the server
+
+❌ Why the other options are incorrect:
+2 Endpoint – That's part of the request, not the response. It’s the URL path the client sends the request to.
+3 Header – Technically, headers are part of the response, but the question is asking what else besides the data might be included. Since headers are part of both request and response structure (not extra information about the result), they’re not the best fit here compared to error codes.
+4 URI – Like the endpoint, the URI (Uniform Resource Identifier) is used in the request, not sent back in the response.
+
+
+ما هي طريقة HTTP التي تتوافق مع إجراء الإنشاء في CRUD؟
+Which HTTP method corresponds to the Create action in CRUD?
+GET
+correctPOST
+
+
+
+###Codes Meaning :
+What does the HTTP status code 201 Created mean?
+The resource was successfully updated
+correctA resource was successfully created
+
+What does the status code 400 Bad Request signify?
+The request was successful
+Authentication is required
+correctThe request was malformed or invalid  مشوه
+
+
+When is the status code 401 used?
+When the request is malformed
+correctWhen authentication is required but has failed
+When the requested resource does not exist
+When the server is overloaded
+
+
+
+Which status code indicates that the requested resource does not exist?
+200 OK
+correct404 Not Found
+
+
+What does the status code 500 indicate?
+The request was successful
+correctThe server encountered an unexpected condition -Internal Server Error
+
+
+What does the status code 301 mean?
+The resource was successfully created
+correctThe resource requested has been permanently moved to a new URI
+
+Codes Starts with 4xx means: Client Errors, These status codes indicate that the request contains bad syntax or cannot be fulfilled by the server.
+True
+
+
+Codes Starts with 5xx means: Server Errors, These status codes indicate that the server failed to fulfill a valid request.
+correctTrue
+
+
+
+What is RESTful API?
+A RESTful API (Representational State Transfer Application Programming Interface) is a set of rules and conventions for building and interacting with web services. It leverages standard HTTP methods and principles to create a uniform and efficient way of communication between client and server applications.
+An API is code that lets two software programs communicate with one another. The API's design spells out the proper way for a developer to write a program, or the client, that uses the API to request services from another application, or the server. APIs have become a vital mechanism for software interoperability.
+A RESTful API is an architectural style for an application programming interface that uses HTTP requests to access and use data.
+RESTful APIs are also referred to as RESTful web services and REST APIs. They're based on representational state transfer, an architectural style and approach to communications often used in web services development. This approach can also facilitate communication between other application types.
+REST technology is generally preferred over other similar technologies. this is because REST uses less bandwidth, making it more efficient in internet use. RESTful APIs can also be built with common programming languages such as C#, PHP, JavaScript and Python.
+REST browsers are thought of as the language of the internet. Cloud consumers use APIs to expose and organize access to web services. REST is a logical choice for building APIs to provide users with ways to flexibly connect to, manage and interact with cloud services in distributed environments.
+Sites such as Amazon, Google, LinkedIn and Twitter use RESTful APIs.
+REST stands for Representational State Transfer. It is an architectural style for designing networked applications. REST relies on a stateless, client-server, cacheable communications protocol -- the HTTP protocol is typically used. Here’s a breakdown of its key components:
+
+Representational: The server sends back a representation of the state of the resource. This representation can be in various formats, such as JSON, XML, or HTML.
+State: The state of a resource is captured in the representation returned by the server. Each request from a client to a server must contain all the information needed to understand and process the request (statelessness).
+Transfer: Data transfer happens between the client and server using standard operations (HTTP methods such as GET, POST, PUT, DELETE, etc.).
+These principles ensure that web services can be designed in a way that is scalable, performant, and easy to manage.
+
+Conclusion
+A RESTful API is a powerful tool for building web services that are easy to use and understand. By adhering to REST principles and using standard HTTP methods, developers can create scalable and maintainable APIs that facilitate communication between different components of a web application.

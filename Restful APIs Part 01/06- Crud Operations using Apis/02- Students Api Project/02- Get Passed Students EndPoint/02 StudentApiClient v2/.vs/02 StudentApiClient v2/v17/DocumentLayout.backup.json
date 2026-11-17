@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Course\\New folder\\02- Students Api Project\\02- Get Passed Students EndPoint\\02 StudentApiClient v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC1ABA7-9DBF-48B3-8558-4EA8CE0E9F7A}|02 StudentApiClient v2.csproj|c:\\users\\ultrapc\\onedrive\\bureau\\restful apis course\\new folder\\02- students api project\\02- get passed students endpoint\\02 studentapiclient v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC1ABA7-9DBF-48B3-8558-4EA8CE0E9F7A}|02 StudentApiClient v2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Course\\New folder\\02- Students Api Project\\02- Get Passed Students EndPoint\\02 StudentApiClient v2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Course\\New folder\\02- Students Api Project\\02- Get Passed Students EndPoint\\02 StudentApiClient v2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:58:57.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

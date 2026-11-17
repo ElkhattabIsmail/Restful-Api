@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\users\\ultrapc\\onedrive\\bureau\\restful apis part 01\\06- crud operations using apis\\02- students api project\\01- get all students endpoint\\01 studentapiserver\\myfirstrestapi_porject\\datasimulation\\studentdatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\datasimulation\\studentdatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\users\\ultrapc\\onedrive\\bureau\\restful apis part 01\\06- crud operations using apis\\02- students api project\\01- get all students endpoint\\01 studentapiserver\\myfirstrestapi_porject\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\users\\ultrapc\\onedrive\\bureau\\restful apis part 01\\06- crud operations using apis\\02- students api project\\01- get all students endpoint\\01 studentapiserver\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\Model\\Student.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:45:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDataSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:45:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\Restful APIs Part 01\\06- Crud Operations using Apis\\02- Students Api Project\\01- Get All Students EndPoint\\01 StudentAPIServer\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:45:42.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

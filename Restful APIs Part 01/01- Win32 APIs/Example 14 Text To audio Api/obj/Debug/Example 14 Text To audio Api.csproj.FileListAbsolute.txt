@@ -1,0 +1,7 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\bin\Debug\Example 14 Text To audio Api.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\bin\Debug\Example 14 Text To audio Api.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\bin\Debug\Example 14 Text To audio Api.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\obj\Debug\Example 14 Text To audio Api.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\obj\Debug\Example 14 Text To audio Api.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\obj\Debug\Example 14 Text To audio Api.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\Restful APIs Course\01- Win32 APIs\Example 14 Text To audio Api\obj\Debug\Example 14 Text To audio Api.pdb

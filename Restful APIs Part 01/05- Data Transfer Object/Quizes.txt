@@ -1,0 +1,191 @@
+01- In the context of RESTful API development using C#, what does DTO stand for?
+Data Transmission Object
+correct Data Transfer Object
+
+
+
+2 / 20
+What is a key characteristic of a DTO in terms of structure?
+It contains complex business logic.
+correct It contains only the fields necessary for the specific operation or API call.
+
+
+
+
+3 / 20
+Which of the following is NOT a key characteristic of DTOs?
+Simplified Structure
+Data Serialization
+Separation of Concerns
+correct Contains Business Logic
+
+
+
+
+4 / 20
+Why are DTOs used for data serialization in RESTful APIs?
+correct To convert data to and from JSON or XML.
+
+
+
+
+5 / 20
+Using DTOs helps in maintaining what aspect of application architecture?
+Complexity
+correct Clean Architecture
+Business Logic
+
+
+
+
+6 / 20
+How do DTOs contribute to security in an application?
+By including all fields from the database.
+correct By only including the necessary fields and reducing exposure of sensitive data.
+
+
+
+7 / 20
+What does encapsulation in DTOs help achieve?
+Exposes internal data structures
+correct Encapsulates the data and ensures internal representation is hidden
+
+
+
+8 / 20
+DTOs provide flexibility by allowing the API to:
+Remain static
+correctEvolve independently of the internal data structures
+Directly expose database schemas
+Handle UI elements
+
+
+
+9 / 20
+Which of the following is a benefit of using DTOs?
+Increased Complexity
+correctFlexibility
+More Business Logic
+Less Security
+
+
+
+
+10 / 20
+What is a key benefit of separating internal data structures from DTOs?
+Simplifies database access
+correctEnsures a clean separation of concerns
+Increases the complexity of the application
+
+
+
+
+
+
+11 / 20
+How can DTOs contribute to data validation?
+correctBy validating incoming data
+
+
+
+
+
+12 / 20
+DTOs are used in RESTful APIs primarily to:
+Handle UI interactions
+correctTransfer data between different layers of an application
+
+
+
+
+13 / 20
+In a RESTful API, using DTOs can help in:
+Directly exposing internal data structures
+correctReducing the risk of exposing sensitive data
+
+
+
+14 / 20
+Which aspect of API design does using DTOs NOT directly contribute to?
+Encapsulation
+Flexibility
+correctIncreased Complexity
+Security
+
+
+
+15 / 20
+What does consistency in the context of DTOs refer to?
+Consistent performance
+correctConsistent data format for API consumers
+Consistent database schema
+Consistent UI design
+
+
+
+
+16 / 20
+Which of the following best describes a DTO?
+A class that includes both data and business logic.
+correctA simple object used to transfer data between different layers of an application.
+A database entity.
+A user interface component.
+
+
+
+
+17 / 20
+Which of the following statements about DTOs is true?
+DTOs include methods to manipulate the data they contain.
+correctDTOs only contain the necessary fields needed for data transfer.
+DTOs handle database transactions.
+DTOs manage the user interface.
+
+
+
+
+إنها تضمن تنسيق بيانات متسقًا وقابلاً للتنبؤ.
+18 / 20
+In RESTful API development, what is a key advantage of using DTOs for data serialization?
+They simplify database queries.
+correctThey ensure a consistent and predictable data format.
+They manage application state.
+They perform complex data transformations.
+
+
+
+19 / 20
+How do DTOs contribute to the maintainability of an application?
+By directly exposing internal data structures.
+correctBy allowing changes to internal data structures without affecting the API.
+By embedding business logic within them.
+By managing user sessions.
+
+
+
+In the context of RESTful APIs, what does the use of DTOs help to avoid?
+Simplification of the codebase
+correctTight coupling between client and server data 
+تلازم وثيق بين هياكل بيانات العميل والخادمstructures
+
+Serialization of data
+Consistent data format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
